@@ -3,7 +3,7 @@
 //  wackybirds
 //
 //  Created by AARON on 7/9/11.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
+//  Copyright Wacky Birds 2011. All rights reserved.
 //
 
 #import "cocos2d.h"
