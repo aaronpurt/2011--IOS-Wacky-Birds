@@ -1,0 +1,58 @@
+<resources>
+<game_profile_page_info>
+  <has_ipurchase>false</has_ipurchase>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <has_chat_rooms>false</has_chat_rooms>
+  <has_challenges>false</has_challenges>
+  <suggestions_topic_id>829033</suggestions_topic_id>
+  <has_achievements>true</has_achievements>
+  <has_featured_application>true</has_featured_application>
+  <short_name>hbc</short_name>
+  <name>Happy Birds</name>
+  <has_leaderboards>true</has_leaderboards>
+  <id>300283</id>
+  <timestamp>2011-06-29 03:44:20</timestamp>
+</game_profile_page_info>
+<offline>
+<timestamp>2011-06-29 03:44:20</timestamp>
+<achievements>
+<achievement>
+<id>1056592</id>
+<title>Level One</title>
+<description>Get this after level 2 for perfect score. </description>
+<gamerscore>100</gamerscore>
+<icon_url></icon_url>
+<is_secret>false</is_secret>
+<is_unlocked>false</is_unlocked>
+<percent_complete></percent_complete>
+<unlocked_date></unlocked_date>
+<position>1</position>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<timestamp>2011-06-29 03:44:20</timestamp>
+</achievement>
+</achievements>
+<leaderboards>
+<leaderboard>
+<id>798396</id>
+<name>Leader Board</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>300283</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2011-06-26 18:48:30 UTC</created_at>
+<updated_at>2011-06-26 18:48:30 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-06-29 03:44:20</timestamp>
+</leaderboard>
+</leaderboards>
+</offline>
+
+</resources>
