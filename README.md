@@ -16,7 +16,7 @@ Skills I Learned
     * It Was my first IOS Game and first time using Xcode for development. 
     * Learned a great deal about starting a project and completing it. 
     * Team Work was a foundation to the completion of the project.
-    * Objective-C, Sprite Sheets 
+    * Objective-C, XCode, C, Sprite Sheets 
 
 
 Screenshots
