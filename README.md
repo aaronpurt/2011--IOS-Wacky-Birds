@@ -12,11 +12,11 @@ Wacky Birds offers 25 challenging wacka-bird levels. Each level increasing in di
 Skills I Learned
 ===================
 
-    1.) Wacky Birds was a great learning experience. 
-    2.) It Was my first IOS Game and first time using Xcode for development. 
-    3.) Learned a great deal about starting a project and completing it. 
-    4.) Team Work was a foundation to the completion of the project.
-    5.) Objective-C, Sprite Sheets 
+    * Wacky Birds was a great learning experience. 
+    * It Was my first IOS Game and first time using Xcode for development. 
+    * Learned a great deal about starting a project and completing it. 
+    * Team Work was a foundation to the completion of the project.
+    * Objective-C, Sprite Sheets 
 
 
 Screenshots
