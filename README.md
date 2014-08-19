@@ -22,4 +22,12 @@ Skills I Learned
 Screenshots
 ===================
 
-Screenshots are located on my [personal website](www.aaronpurtill.com) in the projects section.
+* [Wacky Birds Logo](https://github.com/RhinoGreenFin/2011--IOS-Wacky-Birds/blob/master/WackBirds/imagesGame/screenshots/WackyBirdsLogo.jpg)
+
+* [Vulture Level](https://github.com/RhinoGreenFin/2011--IOS-Wacky-Birds/blob/master/WackBirds/imagesGame/screenshots/Vulture.png)
+
+* [Ostrich Level](https://github.com/RhinoGreenFin/2011--IOS-Wacky-Birds/blob/master/WackBirds/imagesGame/screenshots/Ostrich.png)
+
+* [Raven Level](https://github.com/RhinoGreenFin/2011--IOS-Wacky-Birds/blob/master/WackBirds/imagesGame/screenshots/Raven.png)
+
+* [Ducks Level](https://github.com/RhinoGreenFin/2011--IOS-Wacky-Birds/blob/master/WackBirds/imagesGame/screenshots/Duck.png)
