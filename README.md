@@ -19,7 +19,7 @@ Skills I Learned
     5.) Objective-C, Sprite Sheets 
 
 
-Screen Shots
+Screenshots
 ===================
 
-Screen shots are located on my [personal website](www.aaronpurtill.com) in the projects section.
+Screenshots are located on my [personal website](www.aaronpurtill.com) in the projects section.
